@@ -44,18 +44,16 @@ React Native, PorstgreSQL, Knex, Node, CSS3, HTML5, JavaScript, Postman, Firebas
 
 ## ERD - Entity Relationship Diagram: ##
 
-See .png file
--ERD.png
+![](ERD.png)
 
 ## Wireframes: ##
 
-See .png files
--LandingPage
--NewUser
--MyGarage
--NewVehicle
--SpecificVehicle
--SpecificVehicleCont
+![](LandingPage.png)
+![](NewUser.png)
+![](MyGarage.png)
+![](NewVehicle.png)
+![](SpecificVehicle.png)
+![](SpecificVehicleCont.png)
 
 ## Other Notes ##
 DataBase:
